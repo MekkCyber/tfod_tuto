@@ -3,5 +3,5 @@
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
-./error_guide.md
+error_guide.md
 .venv
